@@ -12,10 +12,11 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 
 | Day | File | Concept |
 |-----|------|---------|
-| 01 | `ratelimiter.js` | Closures, execution context, lexical scope |
-| 02 | `vector2D.js` | Prototypes, `this` binding, OOP without classes |
-| 03 | `singlechainexpression.js` | Array methods, chaining, destructuring |
-| 04 | `scheduler.js` | Async programming, event-driven logic |
+| 01 | `scope-closures.js` | Closures, execution context, lexical scope |
+| 02 | `this-binding-prototypes.js` | Prototypes, `this` binding, OOP without classes |
+| 03 | `array-object-mastery.js` | Array methods, chaining, destructuring |
+| 04 | `event-loop.js` | Async programming, event-driven logic |
+| 05 | `promises.js` | Promise states, error propagation, promise constructor anti-pattern |
 | … | More coming | 29 days total |
 
 ---
@@ -39,6 +40,7 @@ js-core/
 │   ├── day-02/
 │   ├── day-03/
 │   ├── day-04/
+│   ├── day-05/
 │   └── ...
 └── projects/
 ```
