@@ -17,6 +17,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 03 | `array-object-mastery.js` | Array methods, chaining, destructuring |
 | 04 | `event-loop.js` | Async programming, event-driven logic |
 | 05 | `promises.js` | Promise states, error propagation, promise constructor anti-pattern |
+| 06 | `async-await.js` | async/await, try catch statements |
 | … | More coming | 29 days total |
 
 ---
@@ -41,6 +42,7 @@ js-core/
 │   ├── day-03/
 │   ├── day-04/
 │   ├── day-05/
+│   ├── day-06/
 │   └── ...
 └── projects/
 ```
