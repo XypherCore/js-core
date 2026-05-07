@@ -19,6 +19,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 05 | `promises.js` | Promise states, error propagation, promise constructor anti-pattern |
 | 06 | `async-await.js` | async/await, try catch statements |
 | 07 | `task-manager.js` | WeakMap, IIFE modular pattern, Wiring async |
+| 08 | `event-loop-async-patterns.js` | Microtask Queue, Event Loop, Debounce, Async Queue Pattern |
 | … | More coming | 29 days total |
 
 ---
@@ -45,6 +46,7 @@ js-core/
 │   ├── day-05/
 │   ├── day-06/
 │   ├── day-07/
+│   ├── day-08/
 │   └── ...
 └── projects/
 ```
