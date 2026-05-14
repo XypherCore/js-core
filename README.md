@@ -21,6 +21,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 07 | `task-manager.js` | WeakMap, IIFE modular pattern, Wiring async |
 | 08 | `event-loop-async-patterns.js` | Microtask Queue, Event Loop, Debounce, Async Queue Pattern |
 | 09 | `promises-deep.js` | Deep promises, advanced async patterns |
+| 10 | `functional-programming.js` | Pure functions, Immutability, Pipelines, Maybe of, Currying |
 | … | More coming | 29 days total |
 
 ---
@@ -49,6 +50,7 @@ js-core/
 │   ├── day-07/
 │   ├── day-08/
 │   ├── day-09/
+│   ├── day-10/
 │   └── ...
 └── projects/
 ```
