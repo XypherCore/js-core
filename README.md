@@ -22,6 +22,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 08 | `event-loop-async-patterns.js` | Microtask Queue, Event Loop, Debounce, Async Queue Pattern |
 | 09 | `promises-deep.js` | Deep promises, advanced async patterns |
 | 10 | `functional-programming.js` | Pure functions, Immutability, Pipelines, Maybe of, Currying |
+| 11 | `index.js` | ES Modules, Architecture layer, Factory and singleton pattern |
 | … | More coming | 29 days total |
 
 ---
@@ -51,6 +52,7 @@ js-core/
 │   ├── day-08/
 │   ├── day-09/
 │   ├── day-10/
+│   ├── day-11/
 │   └── ...
 └── projects/
 ```
