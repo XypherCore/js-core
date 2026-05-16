@@ -1,3 +1,5 @@
+// Day 11 — Modules & Code Architecture
+
 // 1. import createTask, sortByPriority, isOverdue from core/task.js
 // 2. import loadTasks, saveTasks from services/storage.js
 // 3. import startAutoSave from services/scheduler.js
