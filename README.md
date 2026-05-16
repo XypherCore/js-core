@@ -23,6 +23,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 09 | `promises-deep.js` | Deep promises, advanced async patterns |
 | 10 | `functional-programming.js` | Pure functions, Immutability, Pipelines, Maybe of, Currying |
 | 11 | `index.js` | ES Modules, Architecture layer, Factory and singleton pattern |
+| 12 | `event-driven.js` | Event-driven architecture, Extending EventEmitter |
 | … | More coming | 29 days total |
 
 ---
@@ -53,6 +54,7 @@ js-core/
 │   ├── day-09/
 │   ├── day-10/
 │   ├── day-11/
+│   ├── day-12/
 │   └── ...
 └── projects/
 ```
