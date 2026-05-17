@@ -24,6 +24,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 10 | `functional-programming.js` | Pure functions, Immutability, Pipelines, Maybe of, Currying |
 | 11 | `index.js` | ES Modules, Architecture layer, Factory and singleton pattern |
 | 12 | `event-driven.js` | Event-driven architecture, Extending EventEmitter |
+| 13 | `logger.js` | Node.js, Regex for structured log parsing, file and directory watching |
 | … | More coming | 29 days total |
 
 ---
@@ -55,6 +56,7 @@ js-core/
 │   ├── day-10/
 │   ├── day-11/
 │   ├── day-12/
+│   ├── day-13/
 │   └── ...
 └── projects/
 ```
