@@ -12,11 +12,12 @@ day-14-realtime-poller/
 │   ├── emitter.js
 │   ├── logger.js
 │   ├── pipeline.js
-│   ├── server.js
+│   └── server.js
+│
 ├── app.log
 ├── index.js
 ├── package.json
-├── README.md
+└── README.md
 ```
 
 ## Concepts Demonstrated
