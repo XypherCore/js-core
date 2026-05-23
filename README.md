@@ -26,6 +26,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 12 | `event-driven.js` | Event-driven architecture, Extending EventEmitter |
 | 13 | `logger.js` | Node.js, Regex for structured log parsing, file and directory watching |
 | 14 | `index.js` | HTTP server status, file-based logger |
+| 15 | `functional-patterns.js` |  Immutability at scale, Railway Oriented Programming, Functional state management |
 | … | More coming | 29 days total |
 
 ---
@@ -59,6 +60,7 @@ js-core/
 │   ├── day-12/
 │   ├── day-13/
 │   ├── day-14/
+│   ├── day-15/
 │   └── ...
 └── projects/
 ```
