@@ -27,6 +27,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 13 | `logger.js` | Node.js, Regex for structured log parsing, file and directory watching |
 | 14 | `index.js` | HTTP server status, file-based logger |
 | 15 | `functional-patterns.js` |  Immutability at scale, Railway Oriented Programming, Functional state management |
+| 16 | `advanced-async.js` | Circuit Breaker, Failure Threshold, Async state Machine, Combining Patterns |
 | … | More coming | 29 days total |
 
 ---
@@ -61,6 +62,7 @@ js-core/
 │   ├── day-13/
 │   ├── day-14/
 │   ├── day-15/
+│   ├── day-16/
 │   └── ...
 └── projects/
 ```
