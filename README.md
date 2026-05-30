@@ -28,6 +28,7 @@ Each day targets a specific concept. One file, one focus, no hand-holding.
 | 14 | `index.js` | HTTP server status, file-based logger |
 | 15 | `functional-patterns.js` |  Immutability at scale, Railway Oriented Programming, Functional state management |
 | 16 | `advanced-async.js` | Circuit Breaker, Failure Threshold, Async state Machine, Combining Patterns |
+| 17 | `server.js` | Heartbeat, Websocket handshake, Broadcasting |
 | … | More coming | 29 days total |
 
 ---
@@ -63,6 +64,7 @@ js-core/
 │   ├── day-14/
 │   ├── day-15/
 │   ├── day-16/
+│   ├── day-17/
 │   └── ...
 └── projects/
 ```
