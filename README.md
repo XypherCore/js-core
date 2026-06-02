@@ -1,46 +1,62 @@
 # js-core
 
-Learning JavaScript the hard way — exercises, projects, and notes from 29 days of focused study.
-
+Learning JavaScript the hard way — exercises, projects, and notes from focused study.
 Part of **Ascension-X**, Stage 1, Phase 3 — Control & Interface Layer.
+
+---
+
+## What This Is
+
+This repository documents a structured JavaScript curriculum built from scratch —
+no bootcamp, no tutorials, no shortcuts. Every file was written by hand, every
+concept earned through debugging and iteration.
+
+The goal is not web development. JavaScript here is the **Control & Interface Layer**
+of a larger system — async pipelines, event-driven agents, real-time networking,
+and eventually aerospace-grade intelligent systems.
 
 ---
 
 ## Exercises
 
-Each day targets a specific concept. One file, one focus, no hand-holding.
+Each day targets one concept. One file, one focus.
 
-| Day | File | Concept |
-|-----|------|---------|
-| 01 | `scope-closures.js` | Closures, execution context, lexical scope |
-| 02 | `this-binding-prototypes.js` | Prototypes, `this` binding, OOP without classes |
-| 03 | `array-object-mastery.js` | Array methods, chaining, destructuring |
-| 04 | `event-loop.js` | Async programming, event-driven logic |
-| 05 | `promises.js` | Promise states, error propagation, promise constructor anti-pattern |
-| 06 | `async-await.js` | async/await, try catch statements |
-| 07 | `task-manager.js` | WeakMap, IIFE modular pattern, Wiring async |
-| 08 | `event-loop-async-patterns.js` | Microtask Queue, Event Loop, Debounce, Async Queue Pattern |
-| 09 | `promises-deep.js` | Deep promises, advanced async patterns |
-| 10 | `functional-programming.js` | Pure functions, Immutability, Pipelines, Maybe of, Currying |
-| 11 | `index.js` | ES Modules, Architecture layer, Factory and singleton pattern |
-| 12 | `event-driven.js` | Event-driven architecture, Extending EventEmitter |
-| 13 | `logger.js` | Node.js, Regex for structured log parsing, file and directory watching |
-| 14 | `index.js` | HTTP server status, file-based logger |
-| 15 | `functional-patterns.js` |  Immutability at scale, Railway Oriented Programming, Functional state management |
-| 16 | `advanced-async.js` | Circuit Breaker, Failure Threshold, Async state Machine, Combining Patterns |
-| 17 | `server.js` | Heartbeat, Websocket handshake, Broadcasting |
-| 18 | `generators-iterators.js` | Iterator protocol, Generator functions, Async generators |
-| … | More coming | 29 days total |
+| Day | Topic | Concept |
+|-----|-------|---------|
+| 01 | Scope & Closures | Execution context, lexical scope, closure mechanics, private state |
+| 02 | `this` & Prototypes | Four rules of `this`, explicit binding, prototype chain, OOP without classes |
+| 03 | Array & Object Mastery | `map`, `filter`, `reduce`, chaining, destructuring, spread/rest |
+| 04 | Event Loop | Call stack, microtask queue, callback queue, async foundations |
+| 05 | Promises | Promise states, `.then()` / `.catch()`, combinators, anti-patterns |
+| 06 | Async / Await | `async`/`await`, try/catch, sequential vs parallel execution |
+| 07 | Mini Project — Task Manager | WeakMap, IIFE module pattern, prototype OOP, async wiring |
+| 08 | Async Patterns | Microtask queue deep dive, debounce, throttle, async worker queue |
+| 09 | Promises Deep | Promise internals, `withTimeout`, cache with TTL, async poller |
+| 10 | Functional Programming | Pure functions, immutability, `pipe`, `curry`, Maybe functor |
+| 11 | Modules & Architecture | ES Modules, barrel files, architecture layers, factory pattern |
+| 12 | Event-Driven Programming | EventEmitter from scratch, pub/sub, pipeline with events |
+| 13 | Node.js Core | `fs`, `path`, `process`, streams, file watching, structured logging |
+| 14 | Mini Project — Real-Time Poller | HTTP server, async pipeline, circuit breaker foundations, graceful shutdown |
+| 15 | Functional Patterns | Railway oriented programming, Result type, functional state management, Redux pattern |
+| 16 | Advanced Async | Circuit breaker, async state machine, backpressure, combining patterns |
+| 17 | WebSockets | WS protocol, message routing, heartbeat, broadcast, auto-reconnect |
+| 18 | Generators & Iterators | *coming* |
+| 19 | Proxy & Reflect | *coming* |
+| 20 | Memory & Performance | *coming* |
+| 21 | Mini Project 3 | *coming* |
 
 ---
 
 ## Projects
 
-Real builds go here once the foundation is solid.
+Production-grade builds using everything from the exercises.
+Each project is a standalone system — not a tutorial, not a toy.
 
-```
-Coming after Day 29.
-```
+| Project | Description | Status |
+|---------|-------------|--------|
+| `sentinel` | Real-time system monitor — WebSocket server, sensor clients, alerting, logging | *coming* |
+| `dataflow` | Functional data pipeline library — composable transformers, Result type, async stages | *coming* |
+| `agent-core` | Event-driven autonomous agent — reads data, makes decisions, executes actions | *coming* |
 
 ---
 
@@ -51,25 +67,22 @@ js-core/
 ├── exercises/
 │   ├── day-01/
 │   ├── day-02/
-│   ├── day-03/
-│   ├── day-04/
-│   ├── day-05/
-│   ├── day-06/
-│   ├── day-07/
-│   ├── day-08/
-│   ├── day-09/
-│   ├── day-10/
-│   ├── day-11/
-│   ├── day-12/
-│   ├── day-13/
-│   ├── day-14/
-│   ├── day-15/
-│   ├── day-16/
-│   ├── day-17/
-│   ├── day-18/
-│   └── ...
+│   ├── ...
+│   └── day-21/
 └── projects/
+    ├── sentinel/
+    ├── dataflow/
+    └── agent-core/
 ```
+
+---
+
+## Stack
+
+- **Runtime** — Node.js
+- **Modules** — ES Modules throughout
+- **Style** — No frameworks, no abstractions, raw JS
+- **Tools** — VS Code, Git
 
 ---
 
