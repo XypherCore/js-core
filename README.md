@@ -42,7 +42,7 @@ Each day targets one concept. One file, one focus.
 | 17 | WebSockets | WS protocol, message routing, heartbeat, broadcast, auto-reconnect |
 | 18 | Generators & Iterators | Iterator Protocol, Generator functions, Async generators |
 | 19 | Proxy & Reflect | Function Proxy, Validation proxy, Handler traps |
-| 20 | Memory & Performance | *coming* |
+| 20 | Memory & Performance | Garbage Collector, Object pooling, String Builduing, Benchmark Utility |
 | 21 | Mini Project 3 | *coming* |
 
 ---
