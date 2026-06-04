@@ -41,7 +41,7 @@ Each day targets one concept. One file, one focus.
 | 16 | Advanced Async | Circuit breaker, async state machine, backpressure, combining patterns |
 | 17 | WebSockets | WS protocol, message routing, heartbeat, broadcast, auto-reconnect |
 | 18 | Generators & Iterators | Iterator Protocol, Generator functions, Async generators |
-| 19 | Proxy & Reflect | *coming* |
+| 19 | Proxy & Reflect | Function Proxy, Validation proxy, Handler traps |
 | 20 | Memory & Performance | *coming* |
 | 21 | Mini Project 3 | *coming* |
 
