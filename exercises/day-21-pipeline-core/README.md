@@ -5,6 +5,8 @@ Composable transforms, Result-based error handling, Observable streams.
 Week 3 capstone — everything from Days 15–20 in one system.
 
 ## Structure
+
+```
 day-21-pipeline-core/
 ├── src/
 │   ├── observable.js
@@ -17,6 +19,7 @@ day-21-pipeline-core/
 ├── index.js
 ├── package.json
 └── README.md
+```
 
 ## Concepts Demonstrated
 - Railway oriented programming — Result type, errors flow not explode
