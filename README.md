@@ -43,7 +43,7 @@ Each day targets one concept. One file, one focus.
 | 18 | Generators & Iterators | Iterator Protocol, Generator functions, Async generators |
 | 19 | Proxy & Reflect | Function Proxy, Validation proxy, Handler traps |
 | 20 | Memory & Performance | Garbage Collector, Object pooling, String Builduing, Benchmark Utility |
-| 21 | Mini Project 3 | *coming* |
+| 21 | Intelligent Data Pipeline | Public API design, Pipeline engine, End-to-end: generator |
 
 ---
 
