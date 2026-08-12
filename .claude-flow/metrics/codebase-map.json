@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-08-10T16:49:53.239Z",
+  "projectRoot": "/home/shairul/Documents/Ascension-X/js-core",
+  "structure": {
+    "hasPackageJson": false,
+    "hasTsConfig": false,
+    "hasClaudeConfig": false,
+    "hasClaudeFlow": true
+  },
+  "scannedAt": 1786380593239
+}

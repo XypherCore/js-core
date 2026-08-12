@@ -1,0 +1,13 @@
+{
+  "name": "dataflow",
+  "version": "1.0.0",
+  "description": "A functional data pipeline library.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node demo.js",
+    "test": "node demo.js"
+  }
+}
