@@ -1,0 +1,13 @@
+{
+  "name": "agent-core",
+  "version": "1.0.0",
+  "description": "An event-driven autonomous agent framework. You define what the agent perceives, how it decides, and what it does. The framework handles the rest — state management, event routing, logging, error recovery.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node demo.js",
+    "test": "node --check index.js && node --check demo.js && node --check src/actions.js && node --check src/agent.js && node --check src/decision.js && node --check src/logger.js && node --check src/memory.js && node --check src/perception.js"
+  }
+}

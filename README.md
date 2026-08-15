@@ -56,7 +56,7 @@ Each project is a standalone system — not a tutorial, not a toy.
 |---------|-------------|--------|
 | `sentinel` | Real-time system monitor — WebSocket server, sensor clients, alerting, logging | *Deployed* |
 | `dataflow` | Functional data pipeline library — composable transformers, Result type, async stages | *Deployed* |
-| `agent-core` | Event-driven autonomous agent — reads data, makes decisions, executes actions | *coming* |
+| `agent-core` | Event-driven autonomous agent — reads data, makes decisions, executes actions | *Deployed* |
 
 ---
 
